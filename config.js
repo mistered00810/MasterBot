@@ -8,15 +8,15 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5212412377467', 'CREADOR', true],
-  ['5212411233838', 'CREADOR', true],
-  ['5212411719888', 'CREADOR', true],
-  ['5212414147874', 'CREADOR', true]
+  ['3026045487', 'CREADOR', true],
+  ['3026045487', 'CREADOR', true],
+  ['3026045487', 'CREADOR', true],
+  ['3026045487', 'CREADOR', true]
   
 ];
 
-global.suittag = ['5212414147874'];
-global.prems = ['5212414147874'];
+global.suittag = ['3026045487'];
+global.prems = ['3026045487'];
 
 global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
 global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
